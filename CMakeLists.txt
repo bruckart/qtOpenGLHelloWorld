@@ -65,7 +65,7 @@ target_link_libraries(qtOpenGLHelloWorld
     # pthread
     # ssl
     stdc++
-    glut
+    # glut
     GLU
     GL
 )
